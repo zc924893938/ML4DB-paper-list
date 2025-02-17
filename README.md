@@ -518,6 +518,7 @@ Table of Contents
 * OS Pre-trained Transformer: Predicting Query Latencies across Changing System Contexts [GitHub Link](https://github.com/parimarjan/LatencyPredictor)
 * Precision Meets Resilience: Cross-Database Generalization with Uncertainty Quantification for Robust Cost Estimation (CIKM 2024)
 * DACE: A Database-Agnostic Cost Estimator (ICDE 2024)
+* QCFE: An efficient Feature engineering for query cost estimation(ICDE 2024)
 
 #### Concurrent
 * PQR: Predicting query execution times for autonomous workload management （ICAC 2008）
