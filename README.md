@@ -577,7 +577,7 @@ Table of Contents
 * Simple Adaptive Query Processing vs. Learned Query Optimizers: Observations and Analysis (VLDB 2023)
 * QO-Insight: Inspecting Steered Query Optimizer (VLDB Demo 2023)
 * QPSeeker: An Efficient Neural Planner combining both data and queries through Variational Inference (EDBT 2024)
-* FOSS: A Self-Learned Doctor for Query Optimizer (arXiv 2023)
+* FOSS: A Self-Learned Doctor for Query Optimizer (ICDE 2024)
 * Lemo: A Cache-Enhanced Learned Optimizer for Concurrent Queries (PACMMOD 2023)
 * A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies (VLDB 2024)
 * Learned Optimizer for Online Approximate Query Processing in Data Exploration (TKDE 2024)
@@ -587,6 +587,7 @@ Table of Contents
 * Eraser: Eliminating Performance Regression on Learned Query Optimizer (VLDB 2024)
 * Low Rank Approximation for Learned Query Optimization (aiDM 2024)
 * Lero: applying learning-to-rank in query optimizer (VLDB 2024)
+* GLO: Towards Generalized Learned Query Optimization（ICDE 2024）
 * RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning (SIGMOD 2024)
 * A Novel Technique for Query Plan Representation Based on Graph Neural (Big Data Analytics and Knowledge Discovery)
 * An Exploratory Case Study of Query Plan Representations (aiXiv 2024)
